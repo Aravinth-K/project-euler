@@ -10,7 +10,8 @@ from top to bottom is 23.
 
 That is, 3 + 7 + 4 + 9 = 23.
 
-Find the maximum total from top to bottom of the triangle below:
+Find the maximum total from top to bottom of the triangle
+below:
 
 75
 95 64
@@ -30,9 +31,9 @@ Find the maximum total from top to bottom of the triangle below:
 
 NOTE: As there are only 16384 routes, it is possible to solve
       this problem by trying every route. However, Problem 67,
-      is the same challenge with a triangle containing one-hundred
-      rows; it cannot be solved by brute force, and requires a
-      clever method! ;o)
+      is the same challenge with a triangle containing
+      one-hundred rows; it cannot be solved by brute force,
+      and requires a clever method! ;o)
 """
 
 # number of rows
