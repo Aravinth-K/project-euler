@@ -20,7 +20,7 @@ column in matrix.txt (right click and "Save Link/Target As...")
 """
 
 matrix = []
-with open("p081_matrix.txt") as matfile:
+with open("p082_matrix.txt") as matfile:
     for row in matfile:
         matrix.append([int(n) for n in row.split(',')])
 
